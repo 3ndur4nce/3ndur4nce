@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A sysadmin looking to pivot to development</h3>
 
 - 🔭 I’m currently working on [SRM](https://github.com/3ndur4nce/SRM)
 
